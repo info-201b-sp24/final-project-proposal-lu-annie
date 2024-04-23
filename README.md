@@ -56,6 +56,19 @@ https://www.sellerapp.com/blog/best-selling-products-on-amazon/
 
 https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data?select=amazon_products.csv
 
+ASANICZKA
+
+Scraped from Amazon
+
+Collected in order to get an in-depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.
+
+Rows: 1426337
+Columns: 11 in amazon-products.csv
+
+Ethical questions:
+Limitations/problems:
+
+
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
