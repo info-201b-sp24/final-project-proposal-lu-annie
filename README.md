@@ -4,7 +4,7 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+Analysis of Amazon Marketplace Products
 
 ### Authors
 
@@ -19,8 +19,7 @@ No more than three sentences that summarize your project. Focus on the very most
 
 ## Keywords
 
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+Keywords: Amazon, online marketplace, ecommerce, business, product sales
 
 ## Proposal
 
@@ -44,6 +43,8 @@ No more than three sentences that summarize your project. Focus on the very most
 > What are possible limitations or problems with this data?   (at least 200 words)
 
 https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data?select=amazon_products.csv
+
+https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/googlelocal/
 
 4. Implications
 
