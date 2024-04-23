@@ -56,8 +56,6 @@ https://www.sellerapp.com/blog/best-selling-products-on-amazon/
 
 https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data?select=amazon_products.csv
 
-https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/googlelocal/
-
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
