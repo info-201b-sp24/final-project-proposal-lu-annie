@@ -43,6 +43,8 @@ No more than three sentences that summarize your project. Focus on the very most
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
+https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data?select=amazon_products.csv
+
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
