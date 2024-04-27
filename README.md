@@ -67,6 +67,7 @@ The data from the csv files were scraped from Amazon.com.
 The data was collected in order to get an in-depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.
 
 Rows: 1426337
+
 Columns: 11 in amazon-products.csv
 
 Ethical questions: What permissions are needed to use this dataset for analysis? What permissions did the owner get to scrape this data from Amazon? Are there are permissions that must be obtained before proceeding with this analysis?
