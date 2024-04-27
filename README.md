@@ -1,7 +1,5 @@
 # Final Project Proposal
 
-Please complete your proposal following the outline below.
-
 ## Project title
 
 Analysis of Amazon Marketplace Products
