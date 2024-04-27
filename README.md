@@ -49,12 +49,15 @@ This study aims to investigate the relationship between the price of a product s
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
-https://www.kaggle.com/code/ksevta/best-products-to-sell-on-amazon
+There has been a lot of research done for what products are best-selling on Amazon.
 
-https://www.amazon.com/Best-Sellers/zgbs
+This first research project on Kaggle (https://www.kaggle.com/code/ksevta/best-products-to-sell-on-amazon) is...
 
-https://www.sellerapp.com/blog/best-selling-products-on-amazon/
+This second... (https://www.helium10.com/blog/top-selling-items-on-amazon/)
 
+Finally... (https://www.sellerapp.com/blog/best-selling-products-on-amazon/)
+
+While these three articles covered, this project proposal aims to uncover a new scope...
 
 3. The Dataset
 
