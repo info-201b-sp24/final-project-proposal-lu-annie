@@ -15,9 +15,9 @@ Spring 2024
 
 Our main question is "How are the ratings of a product on Amazon correlated with the price of the product?" This question is important because as consumers generally prefer lower priced items, we want to determine if there is any correlation between items with a lower price point and the satisfaction of consumers, whether it be due to quality, uses, and so on. To address the question, we will conduct research in RStudio using R in order to see if there are any relationships between a product and its rating.
 
-We are concerned with ..., because .... To address this concern, we plan to ....
+We are concerned with how customers rate products, because a rating determines essentially what the customers liked and disliked about a specific product. To address this concern, we plan to take the ratings of the products, and through our findings, uncover the reviews behind the rating for these products, to get a deeper insight into why customers rated the product the way they did (looking for keywords). Then, to tie this information back to the research question, we will be making inferences about the ratings and the price point of the items based off the reviews.
 
-Consider that .... This is important because .... Accordingly, we plan to ....
+Consider that the data only has ratings of products, and the ratings are averaged for each product. This is important because we do not know the spread of the ratings for the products, and we are missing key words that reviews would give us regarding what customers think about the product. Accordingly, we plan to do our analysis by first separating the products by category, then investigating the correlation between price and rating, and then, looking up the product given the URL in order to observe the distribution of the ratings and do more analysis regarding the distribution and the keywords from the reviews of the product.
 
 ## Keywords
 
