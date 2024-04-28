@@ -79,7 +79,9 @@ The limitations/problems with this dataset are that first, it does not have the 
 
 4. Implications
 
-> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+The implications of this project will be that business owners on Amazon can use these guidelines in order to determine what products to sell and if they are currently selling items, they can use the results of this project to determine how to improve the designs of their products to make customers satisfied. Designers of these products can take into account how the ratings and price points of the products relate in order to meet business needs. These business needs may involve changing the features of a product, lowering cost, etc., all which industrial designers play a part in. Companies will have to consider how to create balance between cost and functionality in order to not only keep their existing customers, but encourage new ones to buy their product. The findings from this project may help drive that. Overall, the results of this project mainly aim to improve business on Amazon for sellers and their products. 
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+
+While this project covers...
