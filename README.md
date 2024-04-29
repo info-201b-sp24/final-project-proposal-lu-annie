@@ -47,17 +47,21 @@ This study aims to investigate the relationship between the price of a product s
 
 2. Related Work  
 
-> Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
-
 There has been a lot of research done for what products are best-selling on Amazon.
 
-This first research project on Kaggle (https://www.kaggle.com/code/ksevta/best-products-to-sell-on-amazon) is...
+This first research project on Kaggle [3] is a project that uses the Amazon Products dataset as outlined in the section below. It is coded in Python and goes to research top 25 categories of products sold, and more specifically, which products had the highest number of units sold. It also includes the most expensive products sold. A lot of research is similar to what this project will cover, but this project will be researching the datasets using R programming language. 
 
-This second... (https://www.helium10.com/blog/top-selling-items-on-amazon/)
+This second blog post from Helium 10 [1] contains information about the top 25 best selling products on Amazon in April 2024. It is targeted towards sellers who aim to start or grow a business on Amazon. It rates the product using three different categories of criteria: product images, listing text, and reviews & ratings, and depending on how many criteria (i.e. one criteria under "product images" is if the product has 7 or more images) the product satisfies, it is ranking according in this article. This article gives a great general idea of what products sell well on Amazon.
 
-Finally... (https://www.sellerapp.com/blog/best-selling-products-on-amazon/)
+Finally, the third post, a blog post from SellerApp [2], contains information on how to find top-selling products on Amazon. It analyzes the top selling products along with best-selling categories on Amazon, which products are growing, and how a seller can choose a product and product category to sell in.
 
-While these three articles covered, this project proposal aims to uncover a new scope...
+While these three articles covered how to find top-selling products on Amazon, and what determines a top-selling product, this project proposal aims to uncover a new scope using R as a programming language. It aims to find relationships between ratings and price of items, which the Kaggle project did not do, and these relationships will be used for recommending how businesses could design products better for their customers.
+
+[1] Helium 10. (n.d.). Top Selling Items on Amazon. Helium 10 Blog. Retrieved from https://www.helium10.com/blog/top-selling-items-on-amazon/
+
+[2] SellerApp. (n.d.). Best Selling Products on Amazon. SellerApp Blog. Retrieved from https://www.sellerapp.com/blog/best-selling-products-on-amazon/
+
+[3] Sevta, K. (n.d.). Best Products to Sell on Amazon. Kaggle. Retrieved from https://www.kaggle.com/code/ksevta/best-products-to-sell-on-amazon
 
 3. The Dataset
 
